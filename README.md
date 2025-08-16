@@ -53,10 +53,3 @@ Dashboard Screenshot(dashboard.png)
 •	Hands-on experience with Excel for business analytics.
 •	Ability to design **interactive dashboards**.
 •	Strong understanding of **data visualization & storytelling**.
-🔗 Portfolio Links
-•	GitHub Repo: [Your Repo Link Here]
-•	LinkedIn Post: [Your LinkedIn Post Link Here]
-👤 Author
-Vijay Kumar L
-Aspiring Business Analyst | Excel Enthusiast | Data Storyteller  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)
